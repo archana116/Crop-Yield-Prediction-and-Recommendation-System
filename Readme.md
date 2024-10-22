@@ -1,4 +1,4 @@
-# Agri-Management
+# Crop Yield Prediction and Recommendation System
 A web application with Flask framework.
 
 The main purpose is to create a user interface to predict Crop Yield.
